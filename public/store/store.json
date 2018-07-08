@@ -1,0 +1,14 @@
+{
+	"stocks":{
+
+		},
+		"mf":{
+			"id":{
+				"id":"1",
+				"name":"ICICI Pro",
+				"units":"10",
+				"nav" :"300",
+				"totalInv":"3000"
+			}
+		}
+}
